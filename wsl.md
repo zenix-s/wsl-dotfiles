@@ -15,7 +15,7 @@ wsl --install Debian
 ```bash
 sudo su
 sudo apt update && sudo apt upgrade -y
-sudo apt install wget curl unzip git gcc g++ fd-find ripgrep python3 python3-pip pipx gh clang net-tools zsh ruby ruby-dev neofetch build-essential gdb ssh -y
+sudo apt install wget curl unzip git gcc g++ fd-find ripgrep python3 python3-pip pipx gh clang net-tools zsh ruby ruby-dev neofetch build-essential gdb ssh man-db manpages-dev -y
 ```
   
 
