@@ -5,6 +5,9 @@
 En un terminal de windows con permisos de administrador ejecutar el siguiente comando
 ```bash
 wsl --install Debian
+
+# esto abre nuestro entorno
+wsl 
 ```
   
 ## Configuración de WSL
