@@ -2,11 +2,11 @@
 
 ## Configuración de WSL Base
 
-![README/wsl-debian.md](README/wsl-Debian.md)
+![](README/wsl-Debian.md)
 
 ## Configuración de WSL para 42
 
-![README/42_configs.md](README/42_configs.md)
+![](README/42_configs.md)
 
 ## Dotfiles
 Se encuentran en la carpeta `dotfiles`
@@ -15,4 +15,4 @@ Los ficheros se encuentran ordenados por carpetas relativas al home del usuario.
 
 ## MySql
 
-![README/mysql.md](README/mysql.md)
+![](README/mysql.md)
