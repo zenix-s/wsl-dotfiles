@@ -2,17 +2,17 @@
 
 ## Configuración de WSL Base
 
-![](README/wsl-Debian.md)
+![Configuración base WSL](README/wsl-Debian.md)
 
 ## Configuración de WSL para 42
 
-![](README/42_configs.md)
+![Configuración aplicaciones para 42](README/42_configs.md)
 
 ## Dotfiles
 Se encuentran en la carpeta `dotfiles`
 Añadir el contenido a los ficheros correspondientes en el home del usuario.
 Los ficheros se encuentran ordenados por carpetas relativas al home del usuario.
 
-## MySql
+## Docker
+![Configuración de docker en wsl](README/docker.md)
 
-![](README/mysql.md)
