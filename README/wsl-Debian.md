@@ -26,7 +26,7 @@ sudo apt update && sudo apt upgrade -y
 #### Instalación de paquetes necesarios
 
 ```bash
-sudo apt install wget curl unzip git gcc g++ clang fd-find ripgrep python3 python3-pip pipx gh net-tools zsh ruby ruby-dev neofetch build-essential gdb ssh man-db manpages-dev -y
+sudo apt install wget curl unzip git gcc g++ clang fd-find ripgrep python3 python3-pip pipx gh net-tools zsh ruby ruby-dev neofetch build-essential gdb ssh man-db manpages-dev xclip -y
 ```
 
 ### ZSh
